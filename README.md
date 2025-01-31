@@ -13,5 +13,5 @@
 
 [<img align="left" alt="Khamis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Khamis
+[linkedin]: https://www.linkedin.com/in/khamis-jaden-2a9675333/
 
